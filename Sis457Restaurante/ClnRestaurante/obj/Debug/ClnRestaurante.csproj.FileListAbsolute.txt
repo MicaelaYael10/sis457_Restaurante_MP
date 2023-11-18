@@ -1,0 +1,30 @@
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\obj\Debug\ClnRestaurante.csproj.AssemblyReference.cache
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\obj\Debug\ClnRestaurante.csproj.CoreCompileInputs.cache
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\bin\Debug\ClnRestaurante.dll.config
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\bin\Debug\ClnRestaurante.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\bin\Debug\ClnRestaurante.pdb
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\bin\Debug\CadRestaurante.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\bin\Debug\EntityFramework.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\bin\Debug\EntityFramework.SqlServer.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\bin\Debug\CadRestaurante.pdb
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\bin\Debug\CadRestaurante.dll.config
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\bin\Debug\EntityFramework.xml
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\bin\Debug\EntityFramework.SqlServer.xml
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\obj\Debug\ClnRestaurante.csproj.CopyComplete
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\obj\Debug\ClnRestaurante.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\ClnRestaurante\obj\Debug\ClnRestaurante.pdb
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\bin\Debug\ClnRestaurante.dll.config
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\bin\Debug\ClnRestaurante.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\bin\Debug\ClnRestaurante.pdb
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\bin\Debug\CadRestaurante.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\bin\Debug\EntityFramework.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\bin\Debug\CadRestaurante.pdb
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\bin\Debug\CadRestaurante.dll.config
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\bin\Debug\EntityFramework.xml
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\obj\Debug\ClnRestaurante.csproj.AssemblyReference.cache
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\obj\Debug\ClnRestaurante.csproj.CoreCompileInputs.cache
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\obj\Debug\ClnRestaurante.csproj.CopyComplete
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\obj\Debug\ClnRestaurante.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\ClnRestaurante\obj\Debug\ClnRestaurante.pdb

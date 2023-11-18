@@ -1,0 +1,66 @@
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.AssemblyReference.cache
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmEmpleado.resources
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.Properties.Resources.resources
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.GenerateResource.cache
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.CoreCompileInputs.cache
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\CpRestaurante.exe.config
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\CpRestaurante.exe
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\CpRestaurante.pdb
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\CadRestaurante.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\EntityFramework.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\EntityFramework.SqlServer.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\CadRestaurante.pdb
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\CadRestaurante.dll.config
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.pdb
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.dll.config
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\EntityFramework.xml
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\EntityFramework.SqlServer.xml
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.CopyComplete
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.exe
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.pdb
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.frmCliente.resources
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\C1.Win.4.5.2.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Ribbon.4.5.2.dll
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\C1.Win.4.5.2.xml
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Ribbon.4.5.2.xml
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.frmPrincipal.resources
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.exe.licenses
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmComida.resources
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmLogin.resources
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmMenu.resources
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmUsuario.resources
+E:\SIS457-RESTAURANTE\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmAutenticacion.resources
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\CpRestaurante.exe.config
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\CpRestaurante.exe
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\CpRestaurante.pdb
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\C1.Win.4.5.2.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Ribbon.4.5.2.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\CadRestaurante.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\EntityFramework.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\CadRestaurante.pdb
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\CadRestaurante.dll.config
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.pdb
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.dll.config
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\C1.Win.4.5.2.xml
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Ribbon.4.5.2.xml
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\EntityFramework.xml
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.AssemblyReference.cache
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmAutenticacion.resources
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.frmCliente.resources
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmComida.resources
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmEmpleado.resources
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmLogin.resources
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmMenu.resources
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.frmPrincipal.resources
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmUsuario.resources
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.Properties.Resources.resources
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.GenerateResource.cache
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.exe.licenses
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.CoreCompileInputs.cache
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.CopyComplete
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.exe
+C:\Sis 457 Informatica\Proyecto Definitivo\Sis457_LabRestaurante\Sis457Restaurante\CpRestaurante\obj\Debug\CpRestaurante.pdb

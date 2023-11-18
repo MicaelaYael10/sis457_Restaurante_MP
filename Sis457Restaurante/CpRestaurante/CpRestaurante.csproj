@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BCC7FF95-B981-4355-8883-5B710A418438}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CpRestaurante</RootNamespace>
+    <AssemblyName>CpRestaurante</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.4.5.2, Version=4.5.20193.393, Culture=neutral, PublicKeyToken=944ae1ea0e47ca04" />
+    <Reference Include="C1.Win.C1Ribbon.4.5.2, Version=4.5.20193.393, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAutenticacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAutenticacion.Designer.cs">
+      <DependentUpon>FrmAutenticacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCliente.Designer.cs">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmComida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmComida.Designer.cs">
+      <DependentUpon>FrmComida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpleado.Designer.cs">
+      <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util.cs" />
+    <EmbeddedResource Include="FrmAutenticacion.resx">
+      <DependentUpon>FrmAutenticacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCliente.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmComida.resx">
+      <DependentUpon>FrmComida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpleado.resx">
+      <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CadRestaurante\CadRestaurante.csproj">
+      <Project>{3715aa8a-83e4-4730-a793-f0dbd49cb315}</Project>
+      <Name>CadRestaurante</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClnRestaurante\ClnRestaurante.csproj">
+      <Project>{ad34280e-eb0a-47f9-bc6c-a734cd93de69}</Project>
+      <Name>ClnRestaurante</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-verificar-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-verificar-321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cubiertos-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-restaurante-32 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plato-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-mostrador-de-facturación-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cliente-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-insignia-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-factura-32 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-verificar-322.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-usuario-masculino-en-círculo-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0a0fc95968ad7a5699b2876fa6528865.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\el-patio-de-michelangelo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca02fe3b342e97d46c23ec9b4a0078c1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rustic-Restaurant-Tables-300x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1-12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chorizos-chuquisaquenos-de-bolivia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comida-tipica-bolivia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comida-tradicional-bolivia-receta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CaldoDePollo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fricase-boliviano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lomo-montado-a-la-chorrillana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cocacola-logo.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-fanta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-sprite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-valle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-tampico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-valle1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\429077-menu-de-restaurante-sem-costura-de-fundo-vetor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-restaurante-32 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1000_F_300602172_rFvsco0T5kBGdxbZMSbfcsJuiH02qpKY.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca02fe3b342e97d46c23ec9b4a0078c11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca02fe3b342e97d46c23ec9b4a0078c12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1-121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\el-patio-de-michelangelo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bebidas-refrescantes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bebidas-alcoholicas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\decoracion-restaurante-rustico.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bebidas-refrescantes1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rustic-Restaurant-Tables-300x3001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca02fe3b342e97d46c23ec9b4a0078c13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06ce4ca82827049631be6b7adc392e89.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

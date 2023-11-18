@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a4625ef82cf148cba91213437ea32ea1" Name="Diagram1">
+        <EntityTypeShape EntityType="LabRestauranteMPModel.Cliente" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabRestauranteMPModel.Comida" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabRestauranteMPModel.Empleado" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabRestauranteMPModel.Bebida" Width="1.5" PointX="4.375" PointY="7.75" />
+        <EntityTypeShape EntityType="LabRestauranteMPModel.Factura" Width="1.5" PointX="6.625" PointY="1.375" />
+        <AssociationConnector Association="LabRestauranteMPModel.fk_Factura_Bebida" />
+        <AssociationConnector Association="LabRestauranteMPModel.fk_Factura_Cliente" />
+        <AssociationConnector Association="LabRestauranteMPModel.fk_Factura_Comida" />
+        <AssociationConnector Association="LabRestauranteMPModel.fk_Factura_Empleado" />
+        <EntityTypeShape EntityType="LabRestauranteMPModel.Usuarios" Width="1.5" PointX="5" PointY="11.25" />
+        <AssociationConnector Association="LabRestauranteMPModel.fk_Usuarios_Empleado" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
